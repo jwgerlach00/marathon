@@ -1,7 +1,7 @@
 % Jacob Gerlach
 % jwgerlac@ncsu.edu
 % 9/30/2020
-% marathon_GERLACH.m
+% marathon.m
 %
 % Generates race time statistics based on a time table
 
